@@ -5,6 +5,7 @@
 ## nmap_chron.sh
 
 * Script for running nmap on the MVO network.
+* Needs *nmap* installed.
 * Creates web page accessible in notWebobs: http://webobs.mvo.ms:8080/mvofls2/monitoring_data/status/nmap/nmap.html
 * Runs once a day as a cronjob on *opsproc3*.
 ```
